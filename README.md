@@ -1,2 +1,2 @@
-# Guvi_task2
+# Task2
 Numpy_Tasks
